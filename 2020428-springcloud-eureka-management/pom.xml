@@ -13,8 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>2020428-eureka-7081</module>
-        <module>2020428-eureka-7082</module>
-        <module>2020428-eureka-7083</module>
+        <module>2020428-eureka-7084</module>
+        <module>2020428-eureka-7085</module>
     </modules>
 
     <dependencies>
